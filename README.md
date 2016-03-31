@@ -1,1 +1,1 @@
-# bmo demo
+# bmob container demo
